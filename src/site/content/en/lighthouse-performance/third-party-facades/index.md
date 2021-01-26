@@ -74,6 +74,10 @@ In general, video embeds, social button widgets, and chat widgets can all employ
 
 * [slightlyoff/lite-vimeo](https://github.com/slightlyoff/lite-vimeo)
 
+### Generic embedded player
+
+* [Responsive Video Poster](https://github.com/NigelOToole/responsive-video-poster)
+
 ### Live chat (Intercom, Drift, Help Scout, Facebook Messenger)
 
 * [calibreapp/react-live-chat-loader](https://github.com/calibreapp/react-live-chat-loader) ([blog post](https://calibreapp.com/blog/fast-live-chat))
